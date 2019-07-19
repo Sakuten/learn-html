@@ -4,7 +4,7 @@
   "description": "## 事前知識",
   "main": "index.js",
   "scripts": {
-    "start": "yarn run serve"
+    "start": "npm run serve"
   },
   "repository": {
     "type": "git",
