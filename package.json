@@ -1,0 +1,22 @@
+{
+  "name": "learn-html",
+  "version": "1.0.0",
+  "description": "## 事前知識",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakuten/learn-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakuten/learn-html/issues"
+  },
+  "homepage": "https://github.com/Sakuten/learn-html#readme",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
