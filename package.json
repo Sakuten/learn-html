@@ -4,7 +4,7 @@
   "description": "## 事前知識",
   "main": "index.js",
   "scripts": {
-    "start": "npm run serve"
+    "start": "serve"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "url": "https://github.com/Sakuten/learn-html/issues"
   },
   "homepage": "https://github.com/Sakuten/learn-html#readme",
-  "dependencies": {
+  "devDependencies": {
     "serve": "^11.1.0"
   }
 }
