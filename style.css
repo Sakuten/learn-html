@@ -1,7 +1,22 @@
 h1 {
-  font-size: 3rem;
+  font-size: 5rem;
+  color: #fff;
+  font-family: 'Amatic SC', cursive;
+  margin-left: 2rem;
 }
 
 body{
-  font-family: 'TsukuARdGothic-Regular',sans-serif;
+  background-color: #c8d6e5;
 }
+
+img{
+  width: 12rem;
+}
+
+p{
+  color: #fff;
+  font-family: 'TsukuARdGothic-Regular',sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
